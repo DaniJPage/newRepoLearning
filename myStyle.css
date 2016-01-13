@@ -1,0 +1,9 @@
+.myButton {
+	font-size: 18pt;
+	color: purple;
+	background-color: orange;
+	border-radius: 10px;
+	margin: 20px auto;
+	display: block;
+	
+}
